@@ -1,5 +1,7 @@
 # blynks-zsh-theme
 
+![](https://raw.github.com/ryz/blynks-zsh-theme/master/blynks-zsh-theme-iterm.png)
+
 A modified blinks ZSH theme. This is my customized Blinks theme that comes with the [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) framework.
 
 Changes:
