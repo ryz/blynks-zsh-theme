@@ -4,6 +4,7 @@ A modified blinks ZSH theme. This is my customized Blinks theme that comes with 
 
 Changes:
   * Show the vi-mode on the right side of the prompt
+  * Slightly slimmed down prompt
   * Some colors have been changed
 
 ## Installation
