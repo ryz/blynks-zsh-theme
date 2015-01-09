@@ -2,7 +2,7 @@
 
 ![Blynks ZSH Theme iTerm](blynks-zsh-theme-iterm.png)
 
-A modified blinks ZSH theme. This is my customized Blinks theme that comes with the [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) framework.
+Blynks, a ZSH theme based on Blinks, which comes with the [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) framework.
 
 Changes:
   * Show the vi-mode on the right side of the prompt
