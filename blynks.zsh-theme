@@ -34,8 +34,7 @@ ZSH_THEME_GIT_PROMPT_RENAMED="%{$fg_bold[magenta]%}>"
 ZSH_THEME_GIT_PROMPT_UNMERGED="%{$fg_bold[yellow]%}#"
 ZSH_THEME_GIT_PROMPT_STAGED="%{$fg_bold[green]%}*"
 
-PROMPT='%{%f%k%b%}
-%{%K{${bkg}}%B%F{green}%}%n%{%B%F{blue}%}@%{%B%F{red}%}%m%{%B%F{green}%}%{%b%F{yellow}%K{${bkg}}%} %~ $(_prompt_char)%{%B%F{green}%}$(git_prompt_info)$(git_prompt_status)%E%{%f%k%b%}
+PROMPT='%{%f%k%b%}%{%K{${bkg}}%B%F{green}%}%n%{%B%F{blue}%}@%{%B%F{red}%}%m%{%B%F{green}%}%{%b%F{yellow}%K{${bkg}}%} %~ $(_prompt_char)%{%B%F{green}%}$(git_prompt_info)$(git_prompt_status)%E%{%f%k%b%}
 %{%K{${bkg}}%}%#%{%f%k%b%} '
 
 RPROMPT='!%{%B%F{cyan}%}%!%{%f%k%b%} ${vim_mode}'
